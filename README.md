@@ -1,13 +1,12 @@
-### Sorcier du Front-End 🧙‍♂️ | Architecte UI/UX 🎨 | Artiste du Code 🖌️
+### Sorcier du Front-End 🧙‍♂️ | Artiste du Code 🖌️ | Passionné du Front-End 🎨 |
 
-Salut à tous! 👋 Je suis un développeur front-end en mission pour créer des expériences numériques captivantes. Avec un mélange de créativité et d'expertise technique, je me spécialise dans la transformation des idées en designs polis et parfaits au pixel près.
+Salut à tous! 👋 Je suis un développeur front-end en mission pour créer des expériences numériques captivantes. 
 
 #### Ma Boîte à Outils 🛠️:
 - HTML5 & CSS3 (Sass/SCSS)
-- JavaScript (ES6+)
-- React.js & Vue.js
+- JavaScript
+- React.js 
 - Responsive Web Design
-- Principes de Design UI/UX
 - Contrôle de Version Git
 
 #### Collaborons Ensemble! 🚀
