@@ -1,4 +1,4 @@
-### Sorcier du Front-End 🧙‍♂️ | Artiste du Code 🖌️ | Passionné du Front-End 🎨 |
+### Sorcier du Front-End 🧙‍♂️ | Artiste du Code 🖌️ | Passionné du Web 🎨 |
 
 Salut à tous! 👋 Je suis un développeur front-end en mission pour créer des expériences numériques captivantes. 
 
