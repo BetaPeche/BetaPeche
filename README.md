@@ -8,6 +8,9 @@ Salut à tous! 👋 Je suis un développeur front-end en mission pour créer des
 - React.js 
 - Responsive Web Design
 - Contrôle de Version Git
+- SEO / Performance / Accessibilité
+- Débogage
+- Redux/Toolkit
 
 #### Collaborons Ensemble! 🚀
 🌐 Portfolio: 
